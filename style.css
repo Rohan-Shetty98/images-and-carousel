@@ -1,0 +1,110 @@
+
+
+/*
+85CB33 - yellow green
+071E22 - dark green
+1D7874 - myrtle green
+4DAA57 - green pantone
+FAFFFD - baby powder
+#1B4A40
+#EBB000
+#468773
+font-family: 'Courgette', cursive;
+
+*/
+
+body{
+    font-family: 'Architects Daughter', cursive;
+    /*background: #0E273C;*/
+    font-weight: bolder;
+    background: url(img/1.png);
+}
+
+hr{
+    background: #0E273C;
+}
+
+.nav-logo{
+    background: #0E273C;
+}
+
+.no-padding{
+    padding: 0;
+}
+
+.sidebar{
+    border-right: 2px solid #0E273C;
+    background-color:white;
+}
+
+.sidebar .list-group-item{
+    border: none;
+}
+
+.nav-color{
+    color: #0E273C;
+}
+
+.sidebar .nav-btn{
+    border-radius: 30px;
+    font-size: 20px;
+    background-color:#0E273C;
+    color: white;
+}
+
+.sidebar .nav-btn:hover{
+    background-color:#A167A5;
+    color: #0E273C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*******************************************T  E  R  M  I  N  A  T  E**************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
